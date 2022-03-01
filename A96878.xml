@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An allarm to the inhabitants of the earth that they all may be awakned [sic] and shake off their poluted garments, and meet the Lord with speedy repentance ... and here is a warning to all rulers, magistrates, and men in authority, that they all do that which is just and right ... also a salutation to the children of Light, who are turned to the Lord especially to them in Dorcet shire / by T.W.</title>
+            <author>T. W. (Thomas Woodrove)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96878</idno>
+            <idno type="STC">Wing W3473</idno>
+            <idno type="STC">ESTC R43831</idno>
+            <idno type="EEBO-CITATION">42475294</idno>
+            <idno type="OCLC">ocm 42475294</idno>
+            <idno type="VID">151470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2260:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An allarm to the inhabitants of the earth that they all may be awakned [sic] and shake off their poluted garments, and meet the Lord with speedy repentance ... and here is a warning to all rulers, magistrates, and men in authority, that they all do that which is just and right ... also a salutation to the children of Light, who are turned to the Lord especially to them in Dorcet shire / by T.W.</title>
+                  <author>T. W. (Thomas Woodrove)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the 3d. month for M.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed on p. 8: Written in the 3d. month 1659. T.W.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Apocalyptic literature --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151470:1" rendition="simple:additions"/>
+            <head>AN ALLARM TO The Inhabitants of the Earth, That they all may be awakned and ſhake off their poluted garments, and meet the Lord with ſpeedy repen<g ref="char:EOLhyphen"/>tance, before his wrath break out againſt them, and none be able to quench it.</head>
+            <head type="sub">And here is a true declaration of the wrath and indignation of God, which ſhall certainly fall upon the Prieſts and all that joyn with them.</head>
+            <head type="sub">And here is a warning to all Rulers, Magiſtrates, and men in Authority, that they all do that which is juſt and right, and that they all take heed how they joyn in perſecution (with the Prieſts and Dragon) againſt the Lambs of Chriſt leſt they periſh together.</head>
+            <head type="sub">Alſo a ſalutation to the children of Light, who are turned to the Lord eſpecially to them in <hi>Dorcet</hi> ſhire.</head>
+            <byline>By <hi>T.W.</hi>
+            </byline>
+            <p>A Wake, awake, O inhabitants of the earth, (high and low, rich and poor, noble and ignoble) and prepare to meet the Lord, your maker, by ſpeedy repentance, and caſt off all thoſe filthy garments wherewith you have long been covered, even with the robes of darkneſs, <hi>Cains</hi> robes, and <hi>Iſhmaels</hi> robes, and <hi>Hammons</hi> clothing, have your hearts been covered with, for all you Prieſts, Rulers, and people of all degrees that live in envy, and wrath, and cruelty, and op<g ref="char:EOLhyphen"/>preſſion; you in whom theſe things abound, you live in <hi>Cains</hi> nature, and with his robes you are covered, and even as he was a fugitive driven from
+<pb n="3" facs="tcp:151470:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:151470:3"/>God, ſo are you fugitives, and alienated from the pure innocent life of God: and all you that live in ſcoffing and ſcorning, and in light-minded<g ref="char:EOLhyphen"/>neſs, and in whom vanity and folly is found, you are of <hi>Iſhmaels</hi> ſtock, and in his nature you are ſtanding, and in his race you are ſwiftly running, and your end will be deſtruction, woe and miſery except you ſpeedily repent and turn to the Lord, and forſake the evil of your doings, for your ſins have aſcended upon high and the juſt is grieved with your wickedneſs! O how ſcorning, tearing, and reviling, and wickedneſs abounds, in all cities, towns, and ſtreets in <hi>England,</hi> it is even grievous to behold! and the people both old and young delight in vanity, and their tongues talk of folly, and their lips and mouth utters forth perverſe and fooliſh things, and their mindes are grievouſly corrupted through wicked deviſes, and their hearts are gone a whoring (from the pure fear of the Lord) after evil inventions! O how pride, and hautineſs, and high mindedneſs abounds, and ſuperabounds through all parts of the Nation, in all cities and towns, ſteeplehouſes, and through all parts of the Nation, in all cities and towns, ſteeplehouſes, and markers, it is even woful to behold, yea even as <hi>Lots</hi> righteous ſo I was grieved with the <hi>Sodomites</hi> wicked converſation; even ſo is the ſouls of the children of the Lord grieved at this day, to ſee and behold the wicked con<g ref="char:EOLhyphen"/>verſation, of the people, who profeſs themſelves to be Chriſtians, but walk quite contrary to the life of a Chriſtian; for they that are Chriſtians they have received the ſpirit of Chriſt, and by it they are led and guided, and through the effectual working of the ſame ſpirit in them they are be<g ref="char:EOLhyphen"/>come new creatures. But with the Prieſts, and they that are under their diſcipline, and ſuch as own the hirelings to be their Miniſters it is not ſo, for among them the old ſin of <hi>Sodom</hi> is found, yea all manner of unclean<g ref="char:EOLhyphen"/>neſs is found among the Prieſts Congregations, in which they pray and ſing: yea all people that are not bewitched and blinded with their ſorce<g ref="char:EOLhyphen"/>ries may ſee the wickedneſs of the Prieſts, for their fruits do demonſtrate what ſpirit they are of, and their covetous practiſes and their caſting into priſons, and ſuing at the law, ſuch as cannot put into their mouthes, doth plainly manifeſt that they are not of God, nor ſent by him, neither is the people come to the knowledge of the truth by hearing them; and there<g ref="char:EOLhyphen"/>fore let all who have deſires after God and his truth turn away from them, and not partake with them in their ſins, leſt you pertake with them in their plagues, for certainly they have a terrible cup to drink, yea the cup of the ſore vengeance and fiery indignation of the Almighty God of heaven and earth is prepared for them to drink, and drink it you muſt prieſts as ſure as God is true, yea the rod of God you ſhall feel aſſuredly, for by you have the ſouls of many been ſtarved, and their blood will the Lord God re<g ref="char:EOLhyphen"/>quire
+<pb n="3" facs="tcp:151470:3"/>at your hands, and your portion ſhall be in the lake that burnes for ever and ever, and your ſorrowes ſhall greatly increaſe, and of your pain there ſhall be no end, and this ſhall ſurely come upon you, as ſurely as ever you were born into the world except you repent, and humble your ſelves before the Lord God of heaven and earth, whoſe name is greatly diſhonoured by you, (both Prieſts and people) that take the name of the Lord into your mouthes, and live in wickedneſs, and in unrighteouſneſs, in pride, and vanity, and in covetouſneſs, envie, wrath, and bitterneſs, fraud and deceit, and all manner of wickedneſs; yea what ſin was there in <hi>Sodom,</hi> but that there is the like in the Prieſts and their hearers? they are the ſpiritual <hi>Sodom</hi> and <hi>Egypt,</hi> in whom the Lord Jeſus is crucified a freſh, and put to open ſhame, ye the pare witneſs of God in them they trample upon, and when it ariſeth at any time to judge or to condemne them for any of their wickedneſs they kick againſt it, and call it a temptation, and ſo put light for darkneſs, and darkneſs for light, and bitter for ſweet and ſweet for bitter; but now is the pure day dawned unto many, and the true light ſhines, (glory be to the Lord for ever) and with it you are ſeen (Prieſts) and comprehended from whence you ſprung and what ſtock you are of, and you and your father the Pope muſt go down into the pit from whence you did ariſe, for I bear forth my teſtimony before all people, that the hand of the Lord is againſt you, (and my teſtimony is true and ſhall ſtand for ever) and all your prayers you offer up from your corrupted hearts are an abomination unto the Lord, and all your ſinging in your ſteeplehouſes and aſſemblies is an odious thing unto the Lord, it is even like the yelling of Draggons in the deſert, and the Lords ſoul is burthened with it: and he is now ariſen, and ariſing to take vengeance upon his ad<g ref="char:EOLhyphen"/>verſaries that oppreſs his ſeed, and he will power forth his wrath and in<g ref="char:EOLhyphen"/>dignation upon all them that will not have his ſon Chriſt (the light of the world) to reign over them, but do ſtill go on in the frowardneſs of their wayes, ſurely the Lord will be avenged on ſuch a people as this.</p>
+            <p>And therefore all people high and low, rich and poor, men of all degrees return unto the Lord with ſpeedy repentance, leſt he ſuddenly break forth upon you in his wrath and fiery indignation and none be able to quench it, for verily, verily a great and terrible controverſie hath the Lord God determined againſt the inhabitants of the whole earth, and woe, woe, will be unto all them whoſe hearts are fixed in the earth and erathly things, and take delight therein, more that in the Lord that made them and gave all men life and being, and therefore conſider all people, and ſee what your hearts are taking delight in, whether in the Creator or in the creatures, which will fade as the graſs and periſh in one day, for all fleſh is as graſs,
+<pb n="4" facs="tcp:151470:4"/>and all the glory of man is as the glory of the field, and ſuddenly vaniſh<g ref="char:EOLhyphen"/>eth away even as the ſmoke before the wind, and all the proud and haugh<g ref="char:EOLhyphen"/>ty ones, and all the careleſs ones, who are at eaſe in the fleſh, whoſe hearts takes pleaſure and delight in vanity, they ſhall all be as ſtubble ready dryed before a mighty and unquenchable fire in that great and notable day which now draweth nigh, wherein the Lord God will reveal himſelf from hea<g ref="char:EOLhyphen"/>ven in flames of fire, rendring vengeance upon the head of his enemies and upon all them that ſlight and neglect the day of their viſitation, wherein the Lord waits to be gratious, and hath mercy for all thoſe that return un<g ref="char:EOLhyphen"/>to him in the true integrity of their hearts, and do in meekneſs and in lowlineſs of mind, in the pure fear of the Lord waite upon him, them the Lord will deal gratiouſly with, he will take care for them, he will feed them with pure food, and he will water them with ſweet &amp; pleaſant does, he will fight their battels for them &amp; he will ſubdue their enemies, both within &amp; fight their battels for them &amp; he will ſubdue their enemies, both within &amp; without; he will break down the mountains, and he will make the rough waies plain before them, and they ſhall not be hungry, neither ſhall they be thirſty, neither ſhall the heat ſmite them, nor the ſun make them faint, for the Lord who hath compaſſion on them, he will lead them to the ſprings of water, where they ſhall drink and be refreſhed, and their ſouls ſatisfied: and this is already witneſſed by thouſands of them who are re<g ref="char:EOLhyphen"/>turned (out of the darkneſs vanity, and pollutions of the world) unto the Lord, and are joyned unto him in the covenant of light, life, and peace, and are now become followers of the Lamb of God, (who is the light of the world) and do follow him through the ſuffering ſtate, mockings and re<g ref="char:EOLhyphen"/>proches, and revilings of wicked and ungodly men, yea moreover cruel whippings, bonds and impriſonments, caſting into dungeons and filthy noy<g ref="char:EOLhyphen"/>ſome holes; and in all this we feel the word of patience, which carryes us through all tribulations, and ſo are willing to ſuffer with him who is a man of ſorrows, that with him we may alſo reign, and this I certainly know that none can reign with him but they that ſuffer with him, yet every one according to his own meaſure, and not all alike, but every one according to the proportion of the gift that God hath given unto them, ſo all (who are in the covenant of life joyned unto God) do feel and witneſs the mea<g ref="char:EOLhyphen"/>ſure of the ſufferings of Chriſt fulfilled in them, and as their ſufferings doe abound, ſo they feel the joy and the peace much more to abound, and the pure love of God they feel wherewith they are relieved, and comforted in the time of great adverſity when wicked and ungodly men rage and fret, and the enemy makes his aſſault both within and without, then the Lord he reveales his pure power (into his children who truſt in him) and with it they are made bold and valient to the amazement and confounding of
+<pb n="5" facs="tcp:151470:4"/>their enemies, and ſo it is not by their own ſtrength that they get the victory but by the power of God onely, by which the Lord God keeps and preſerves his children and ſervants, that diligently in his fear do wait upon him, (who by the world are called Quakers) to receive of his wiſ<g ref="char:EOLhyphen"/>dome, and to be filled with his power, which is the ſword with which they make war in righteouſneſs, and with it ſtrong holds are broken down and principalities are ſpoyled, and with (this ſword) the power of God they do prevail, and ſhall prevail, and no weapon formed againſt them ſhall proſper, for they are the ſeed which God hath bleſſed, and all that do or ſhall riſe up againſt them ſhall be broken, and ſnared and confounded, for of a truth the Lord is with them, and his arm compaſſeth them about, and though all the powers of darkneſs be ſtirred up againſt them, (in the Prieſts &amp; ungodly Rulers) yet they ſhall never be overcome, nor the gates of hell ſhall never be able to prevail againſt them, for the Lord he is with them who is greater then all and hath-power over death and hell and wo will be to all them that ſeek to quench the appearance of the Lord in his people, and therefore all people take heed how you ſtrive againſt the Lord and againſt his truth, which is now made manifeſt and declared by his chil<g ref="char:EOLhyphen"/>dren, who are hated &amp; reviled and evil ſpoken of, &amp; all take heed how you joyn any longer with the Prieſts, and ſeek to hold them up, for all that ſtrive to build up them, they ſtrive to build up that which the Lord will throw down, ye this will the Lord do whether you can hear it or not, the thing ſhall certainly come to paſs, and their downfal haſtens, and the day draw<g ref="char:EOLhyphen"/>eth on wherein they ſhall fall, and ſhall never be able to riſe any more.</p>
+            <p>And therefore all you rulers of the earth, and ye that are in the place of Magiſtrates, and men in authority, be you all warned that you all do that which is juſt &amp; equal unto all men, even as you would that men ſhould do unto you, for this is right, &amp; this doth the Lord require of you all, &amp; I warn you all in the fear of the Lord God, that you all take heed how you joyn your ſelves (&amp; your power) with the Prince of darkneſs, (&amp; the Prieſts whom the wrath of God is againſt) to perſecute theſe innocent people (called quakers) that hath done you no harm, neither have they done any violence or wrong to any man but for the teſtimony of a good conſcience, and for witneſſing and declaring againſt the ungodlineſs of the Prieſts and people, and for teſtifying againſt that great abomination (Tithes) which was firſt inſtituted by the Popes authority, (among thoſe called Chriſtians) have we ſuffered all this grievous oppreſſion and afflictions which have been inflicted upon many of us, by caſting into priſons, and dungeons, and filthy places, not fit for good dogs (as the jayler of <hi>Eve<g ref="char:EOLhyphen"/>ſham</hi> ſaid to <hi>H. S.</hi> and I who were at that time in the dungeon, (which
+<pb n="6" facs="tcp:151470:5"/>was not a fit place for a good dog he ſaid) beſides cruel whippings, ſtocke<g ref="char:EOLhyphen"/>ing and ſtoning, in your ſtreets, and many have had their goods ſpoyled, and in all this the Prieſts have had a hand, and the Rulers have been very ready and attentive to the Prieſts, to help them with their aſſiſtance, as your ſteeple-houſes, ſtocks, and priſons, will manifeſt to all ſober people, that are honeſt hearted: but this do you all know aſſuredly that the Lord God who is juſt and righteous in all his wayes, (and will not ſuffer the op<g ref="char:EOLhyphen"/>preſſour to go unpuniſhed) he will call you to an account for theſe things, and will give unto every one of you a juſt reward, according to your do<g ref="char:EOLhyphen"/>ings, yea even as you have afflicted, and ſcourged the innocent lambs of Chriſt, ſo ſhall you be afflicted with a ſore affliction, and ſhall be ſcourged with the rod of Gods wrath yea even as you have thirſted after blood, blood ſhall you drink and even as you have caſt the members of Chriſt into dun<g ref="char:EOLhyphen"/>geons and filthy holes; ſo ſhall you that joyn with the Prieſts, and the old Dragon (their Maſter) againſt the Lords people be caſt into the lake that burneth for ever, except you repent and turn from your wicked wayes, and own the light of Chriſt (in you) which reproves for ſin and ungodlineſs, and will lead into ſoberneſs and meekneſs (if you obey it) and to do unto all men as you would they ſhould do unto you, and to this pure light of Chriſt Jeſus (in all your conſciences) which judgeth and reproves you in ſecret, when you do that which is evil, unto this muſt you all bow and bend if ever you know peace with God, or ſalvation from ſin: and in vain do any expect ſalvation who are not turned to the light of Chriſt (in them) which makes manifeſt ſin in its firſt appearance, and it doth not onely diſcover ſin, but it alſo leads out of ſin all them that love it and obey it; and now all them that are not yet turned to the light, they are in the darkneſs and in the alienation, and are ſtrangers to the light of righteouſneſs; and theſe are them that hate, and perſecute thoſe that do walk in the light (unto which they themſelves are not joyned) for dark<g ref="char:EOLhyphen"/>neſs cannot have any communion with light, but they that walk in the light they have unity one with another, and they perſecute none, neither envy they any man, for the children of light never perſecuted any but they were alwayes in all ages perſecuted by <hi>Cains</hi> generation; and out of the ſame nature that was in <hi>Cain</hi> (in which he ſlew his brother) doth all the perſecution ariſe from the foundation of the world even unto this day; for there is but two generations (to wit) the children of light and the children of darkneſs, and the children of darkneſs alwaies perſecuted the children of light, and therefore look back all ye perſecutors, and ſee whoſe ſtock ye are of, and the witneſs of God in you, will tell you that you are of <hi>Cains</hi> generation, whoſe of-ſpring you are; you are of <hi>Hamons</hi> ſeed whoſe envy
+<pb n="7" facs="tcp:151470:5"/>was almoſt as great againſt the poor ſcattered Jews, as yours is againſt the Quakers, yet the Lord he delivered them out of his hand, and brought de<g ref="char:EOLunhyphen"/>ſtruction upon their enemies, and the Lord he is the ſame God as he was then, and as mighty in power as he was then, and he will deliver his peo<g ref="char:EOLhyphen"/>ple out of their enemies hands, and will aſſuredly bring his plagues and judgements upon all them that ſeek their ruine, as ever he did upon <hi>Ham<g ref="char:EOLhyphen"/>mon,</hi> and the more you ſtrive to overcome them, the more ſhall they in<g ref="char:EOLhyphen"/>creaſe and flouriſh, for as the perſecution doth abound, ſo much the more their conſolation with Chriſt doth abound, and the more abundantly is the power of the Lord made manifeſt in them, and in it, they lie down in reſt and peace, in a quiet habitation, into which the unclean cannot come, for the power of the Lord compaſſeth them about, and in it they reſt in ſafety and none can make them afraid.</p>
+            <closer>
+               <signed>
+                  <hi>From him who is a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> one of the leſt of the Lords ſervants is this writ<g ref="char:EOLhyphen"/>ten and ſent abroad among all people as a warning to them all, that they all repent and turn to the Lord with ſpeed, before the wrath of God breaks forth upon them; for theſe things which are here declared, ſhall certainly fall upon all the unrepented ones. Thomas Woodrove.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Sallutation to the Children of light who are turned to the Lord eſpecially to them in <hi>Dorſet-ſhire.</hi>
+            </head>
+            <p>ALL you children of the light who are turned to the Lord, lift up your heads and rejoyce and be you bold and valient for the Lord and for his truth, and all walk wiſely and circumſpectly in all times and in all pla<g ref="char:EOLhyphen"/>ces, that the name of the Lord may be honoured by you all, and all keep down to the pure, meek and lowly principal in you all, and then ſhall you never want bread to feed upon, nor water to drink, but your bread ſhall be ſure, and your ſprings ſhall never be dry, and your light ſhall alwayes ſhine, and your ſun ſhall never go down, and your moon ſhall never be e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lipſed nor be hid, but the Lord will be your everlaſting light, your rock and your ſtrong fortreſs, and the Lord God Almighty, who is rich and large, and bountiful unto all his children that hunger and thirſt after him, he will crown you with ſtrength and honour, as you keep faithful unto
+<pb n="8" facs="tcp:151470:6"/>him, and all the powers of darkneſs ſhall never prevail againſt you, for the Lord is with us, and he is greater then all, and his power rules over all, and he hath the hearts of all men in his own hand, and he can do with them as he pleaſes, and unto him all ſhall bow, and all the high Oaks, and all the tall Cedars ſhall bend themſelves; before the Lords pure preſence, who is now ariſen for the redemption of his own ſeed: from under its grievous oppreſſion and cruel bondage, and now muſt that which hath held (the Lords ſeed) captive, goe into captivity, and this is the mighty work that the Lord hath, and is bringing to paſs, and therefore let all the living praiſe his name for ever and ever, and all walk worthy of your calling whereunto the Lord hath called you, and all prize the Lords rich love towards you, in that he hath viſited you, and made known the way of life and ſalvation un<g ref="char:EOLhyphen"/>to you, and hath in a great meaſure redeemed you from the pollutions of this world, and from under the chains of darkneſs, (under which you had long been bound) and hath pulled the feet of many out of the mire and clay, and hath ſet them upon a rock where they ſtand ſure; O endleſs rich love! glory, glory, honour and prayſes be unto thy name Lord God Om<g ref="char:EOLhyphen"/>nipotent, for thou art worthy.</p>
+            <p>And all friends every where let not the gratious dealings of the Lord towards you be forgoten, but let it be had, in a perpetual remembrance, and all walk worthy of the Lords rich love and mercy towards you, and let not the name of the Lord nor his truth be diſhonoured by any diſorderly walking, but all keep in the fear of God, and there the power of God you will feel, and in it be preſerved, but out of the fear of God, out of the pow<g ref="char:EOLhyphen"/>er of God, ſo all dwell in the fear of God, and here the power is known.</p>
+            <closer>
+               <signed>
+                  <hi>From him who is a Babe in Chriſt, or as one of the leſt of all that have believed, yet to the truth and all that live in it I know my love is not the leſt.</hi> T. W.</signed>
+               <date>Written in the 3d. month 1659.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed in the</hi> 3d. <hi>month, for</hi> M. W. 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
